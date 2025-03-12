@@ -1,6 +1,9 @@
 ### 📱 MOBILE-ROBOTFRAMEWORK-CONTACTS
 
 Este projeto é uma suíte de automação de testes para aplicativos móveis utilizando Robot Framework com Appium. Ele automatiza cenários de Create, Read, Update para a aplicação de contatos, garantindo que funcionalidades essenciais estejam funcionando corretamente.
+
+![alt text](image.png)
+
 ### 🗂️ Estrutura do Projeto
 
 ```sh
