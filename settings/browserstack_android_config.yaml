@@ -1,0 +1,9 @@
+browserstack:
+  username: "hebromsouza"
+  access_key: ""
+  devices:
+    - device: "Pixel 9"
+      os_version: "15"
+  app: "bs://<app-id>"
+  automation_name: "UIAutomator2"
+  appium_version: "1.22.0"

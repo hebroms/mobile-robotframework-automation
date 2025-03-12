@@ -1,0 +1,7 @@
+robotframework
+robotframework-appiumlibrary
+Appium-Python-Client
+pytest-bdd
+pyyaml
+pabot
+browserstack-sdk

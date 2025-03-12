@@ -1,0 +1,22 @@
+[project]
+name = "mobile-robotframework-automation"
+version = "0.1.0"
+description = "Projeto de Automação UI com Robot Framework, Python e Appium"
+authors = [
+    {name = "hebromsouza@gmail.com"}
+]
+readme = "README.md"
+requires-python = "^3.8"
+dependencies = [
+    "robotframework (>=7.2.2,<8.0.0)",
+    "appium-python-client (>=3.0.0,<4.0.0)",
+    "docutils (>=0.20,<0.21)",
+    "robotframework-appiumlibrary (>=2.1.0,<3.0.0)",
+    "pyyaml (>=6.0.2,<7.0.0)",
+    "robotframework-faker (>=5.0.0,<6.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

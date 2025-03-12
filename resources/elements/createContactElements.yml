@@ -1,0 +1,14 @@
+createContact:
+  android:
+    cancelButton: //android.widget.ImageButton[@content-desc="Cancel"]
+    pageTitle: //android.widget.TextView[@text="Create contact"]
+    saveButton: toolbar_button
+    addPictureButton: button_change_photo
+    formField: //android.widget.EditText[@text="{param}"]
+    labelDropdown: //android.widget.Spinner[@content-desc="{param}"]
+    labelEmailDropdown: //android.widget.Spinner[@content-desc="Birthday Special date"]
+    optionsSpinner: //*[@text="{param}"]
+    significantDateDatePickerInput: //android.widget.EditText[@resource-id="android:id/numberpicker_input" and @text="{param}"]
+    setSignificanteDatePickerButton: button1
+  ios:
+    

@@ -1,0 +1,62 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Poetry files
+poetry.lock
+
+
+# Robot Framework
+output.xml
+log.html
+report.html
+*.log
+*.xml
+*.html
+
+# Pasta de resultados dos testes
+/results/
+
+
+# VSCode
+.vscode/
+.history/
+
+
+# Arquivos temporários / backups
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Appium
+node_modules/
+appium.log
+
+# Arquivos de dispositivos / emuladores
+*.apk
+*.ipa
+
+# Logs customizados
+logs/
+*.log
+
+# IDEs (caso use outras IDEs)
+.idea/
+*.iml
+
+# Arquivos de sistema
+.env
+*.keystore

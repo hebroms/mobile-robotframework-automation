@@ -1,0 +1,7 @@
+editContact:
+  android:
+    cancelButton: //android.widget.ImageButton[@content-desc="Cancel"]
+    pageTitle: //android.widget.TextView[@text="Edit contact"]
+    saveButton: toolbar_button
+    editField: //android.widget.EditText[@text="{param}"]
+  ios:

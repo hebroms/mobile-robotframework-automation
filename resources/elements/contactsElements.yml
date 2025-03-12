@@ -1,0 +1,6 @@
+contacts:
+  android:
+    searchContactsBar: open_search_bar_text_view
+    listContacts: list
+    nameContact: //android.widget.TextView[@content-desc="{param}"]
+    createContactButton: floating_action_button
